@@ -1,0 +1,57 @@
+{
+
+  "name": "fbspam",
+
+  "version": "1.0.0",
+
+  "description": "Facebook messenger spam tool by CommandoRulex",
+
+  "main": "Comando.js",
+
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+
+  "repository": {
+
+    "type": "git",
+
+    "url": "git+https://github.com/Maharis0p/comando.js.git"
+
+  },
+
+  "keywords": [
+
+    "fbspam",
+
+    "comando",
+
+    "spamtool",
+
+    "fbspam"
+
+  ],
+
+  "author": "Commando",
+
+  "license": "ISC",
+
+  "bugs": {
+
+    "url": "https://github.com/Maharis0p/comando.js/issues"
+
+  },
+
+  "homepage": "https://github.com/Maharis0p/comando.js
+
+#readme",
+
+  "dependencies": {
+
+    "prompt": "^1.3.0"
+
+  }
+
+}
